@@ -1,10 +1,33 @@
 **************************************
+Project Title:
+"Winning Space Race with Data Science"
 Coursera Data Science Captsone Project
 **************************************
 
-Project Title:
-"Winning Space Race with Data Science"
+This Data Science project is the culmination of my learning in the IBM COURSERA COURSE.
+Please refer to the Project Presentation.pdf Document for an executive summary and detailed breakdown of the project.
 
-Project Presentation.pdf
+The following technical skills are used in the project
+
+Data collection utilizing spaceX REST APIs
+https://github.com/patorobles/Coursera-Data-Science-Capstone/blob/main/Collecting%20the%20DataAPI.ipynb
+
+Data wrangling with Pandas DataFrames
+https://github.com/patorobles/Coursera-Data-Science-Capstone/blob/main/Data%20Wrangling.ipynb
+
+EDA through Data visualization using the Matplotlib and Seaborn libraries in Python
+https://github.com/patorobles/Coursera-Data-Science-Capstone/blob/main/EDA%20with%20Pandas.ipynb
+
+EDA with SQL
+https://github.com/patorobles/Coursera-Data-Science-Capstone/blob/main/EDA%20with%20SQL.ipynb
+
+Building an interactive map with Folium
+https://github.com/patorobles/Coursera-Data-Science-Capstone/blob/main/Visual%20Analytics%20with%20Folium.ipynb
+
+Building a plotly Dash dashboard
+https://github.com/patorobles/Coursera-Data-Science-Capstone/blob/main/spacex_dash_app.py
+
+Building prediction-based classifier Machine Learning models
+https://github.com/patorobles/Coursera-Data-Science-Capstone/blob/main/ML%20Prediction%20Models.ipynb
 
 
